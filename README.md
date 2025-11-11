@@ -24,6 +24,15 @@ The internship focuses on applying financial and IT analysis concepts using Exce
 - Added insights explaining patterns and performance.
 - Skills: Data Visualization, Chart Design, Insight Writing.
 
+### 🔹 Day 4 –  Departmental Profitability & Automation Report
+- Created line chart for Daily Profit Trend.
+- - Added **Profit Margin (%)** calculation in Summary sheet  
+- Used **Conditional Formatting** to color-code margin levels  
+- Created **Department-wise Profit Margin Chart**  
+- Built **Dynamic Insight Box** using:
+  - `MAX()`, `MIN()`, `AVERAGE()`, and `INDEX-MATCH()`  
+- Added **Dropdown filter** for departments using `VLOOKUP()`  
+- Automated performance summary to update with dropdown selection 
 ---
 
 ## 🧠 Skills Developed
@@ -31,7 +40,9 @@ The internship focuses on applying financial and IT analysis concepts using Exce
 - Microsoft Excel & Pivot Tables  
 - Visualization & Dashboard Design  
 - Report Writing for Management  
-- Business-IT Analytical Thinking  
+- Business-IT Analytical Thinking
+- Data Automation
+- Dynamic Reporting  
 
 ---
 
